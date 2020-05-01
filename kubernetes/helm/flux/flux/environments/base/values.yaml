@@ -1,0 +1,5 @@
+flux:
+  git:
+    url: git@github.com:airwavetechio-gh/kubernetes-common-services.git
+    branch: master
+    path: "kubernetes/flux/releases/base"
